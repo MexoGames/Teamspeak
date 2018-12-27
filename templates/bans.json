@@ -1,8 +1,8 @@
 {
   "suffix": " | %duration% | %ownnick%",
   "templates": {
-    "Soundboard;Soundboard": "1h",
-    "Störgeräusche;Störgeräusche": "1h",
+    "Soundboard": "1h",
+    "Störgeräusche": "1h",
     "Namensgebung": "1h",
     "RangFake Team/Server": "3h",
     "Rechtsradikalismus": "5h",
