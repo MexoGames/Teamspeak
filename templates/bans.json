@@ -1,4 +1,5 @@
 {
+  "prefix": "",
   "suffix": " | %duration% | %ownnick%",
   "templates": {
     "Soundboard": "1h",
